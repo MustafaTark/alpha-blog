@@ -1,1 +1,1 @@
-This is First Ruby on Rails Project
+This is first Ruby on Rails project
